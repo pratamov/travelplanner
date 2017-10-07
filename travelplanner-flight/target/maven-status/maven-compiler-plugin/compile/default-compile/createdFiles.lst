@@ -1,0 +1,16 @@
+com\timkita\service\TestBean.class
+com\timkita\service\FlightService.class
+com\timkita\model\Carrier.class
+com\timkita\model\Airport.class
+com\timkita\dao\TestDao.class
+com\timkita\dao\FlightDao.class
+com\timkita\util\RestClientUtil.class
+com\timkita\model\Flight.class
+com\timkita\service\AirportBean.class
+com\timkita\util\ConnectionUtil.class
+com\timkita\util\ConnectionUtil$1.class
+com\timkita\service\TestService.class
+com\timkita\model\expedia\Feature.class
+com\timkita\service\FlightBean.class
+com\timkita\service\AirportService.class
+com\timkita\dao\AirportDao.class

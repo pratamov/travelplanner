@@ -1,0 +1,4 @@
+com\timkita\integration\TelegramBotApplication.class
+com\timkita\integration\router\TelegramRouter.class
+com\timkita\integration\bean\BotBean.class
+com\timkita\integration\router\EjbRouter.class

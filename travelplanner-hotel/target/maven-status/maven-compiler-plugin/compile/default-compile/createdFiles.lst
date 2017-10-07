@@ -1,0 +1,5 @@
+com\timkita\model\Hotel.class
+com\timkita\service\HotelBean.class
+com\timkita\model\Location.class
+com\timkita\dao\HotelDao.class
+com\timkita\service\HotelService.class
